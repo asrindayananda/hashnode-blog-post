@@ -1,6 +1,6 @@
 ---
 title: Create a database table in Magento 2
-tags: software development, web development, magento
+tags: software development, web development, magento, software engineering, coding
 cover: https://images.unsplash.com/photo-1565791380713-1756b9a05343?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1760&q=80
 domain: blog.azcodez.com
 ---
