@@ -4,9 +4,10 @@ tags: software development, web development, magento, software engineering, codi
 cover: https://images.unsplash.com/photo-1565791380713-1756b9a05343?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1760&q=80
 domain: blog.azcodez.com
 ---
-# Create a database 
+Below are steps I went though to create a new database table in Magento 2 / Adobe Commerce
 
-## First create a module and redeploy 
+## Create a module
+You can add to your existing module or [follow this blog to create a module](https://blog.azcodez.com/magento-2-create-a-module-in-magento-2)
 
 ## Create a db schema 
 - Refernce https://devdocs.magento.com/guides/v2.4/extension-dev-guide/declarative-schema/db-schema.html
